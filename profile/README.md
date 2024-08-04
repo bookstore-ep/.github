@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-💡 This organization is for a BookStore.
-The project is being developed for myself for educational purposes only.
+💡 The project is being developed for myself for educational purposes only.
 
 <!--
 
